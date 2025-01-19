@@ -1,5 +1,4 @@
-# Data-Balancing-with-Gen-AI-Credit-Card-Fraud-Detection
-
+![Image](https://github.com/user-attachments/assets/cba10607-5417-4e94-8a4d-4f5255a8e3b1)
 Discriminator and Generator in GANs
 Generative Adversarial Networks (GANs) are a class of deep learning models introduced by Ian Goodfellow in 2014. GANs consist of two main components, the generator and the discriminator, which are neural networks trained simultaneously in a game-theoretic framework. The goal of GANs is to generate realistic data (e.g., images, text) that is indistinguishable from real data.
 
